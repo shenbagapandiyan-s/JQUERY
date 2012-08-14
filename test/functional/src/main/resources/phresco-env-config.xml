@@ -1,0 +1,14 @@
+<environment>
+           <Browser>firefox</Browser>
+		   <Server>
+              <context>Eshoj</context>
+              <protocol>http</protocol>
+              <host>172.16.28.245</host>
+              <port>8080</port>
+           </Server>
+           <selenium>
+               <server.host>localhost</server.host>
+               <server.port>4444</server.port>
+               <speed>300</speed>
+           </selenium>     
+</environment>
